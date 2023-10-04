@@ -1,0 +1,39 @@
+E-commerce
+stage 1:
+1. template download 
+2. Auth 0
+3.Admin dashboard template
+4.Homepage for general products
+5.Single product page
+6.Shopping cart
+7.Help page
+8.Payment page
+9.success page
+
+stage 3:
+10.Admin home page 
+11. view product and upload
+12.orders
+13.users
+14.logistics
+15.category page 
+
+stage 4:
+16.integration of payment systems
+   paystack,
+   flutterwave,
+   paypal,
+   etc.
+
+stage 5
+17.various testing 
+
+Dashboard:
+users 
+products
+shopping cart
+category 
+orders 
+
+Database:mongo DB
+Technology: node JS, HTML, CSS, Bootstrap. Javascript
